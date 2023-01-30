@@ -1,6 +1,6 @@
 # Data
 
-## Data layer //variable
+## Data layer
 
 - List of Gentlemen
   - id
@@ -12,7 +12,7 @@
   - alternativaText
   - selected
 
-## Data modification // funciones
+## Data modification
 
 - toggle selected property of gentleman
 - select all gentlemen
@@ -35,7 +35,7 @@
 - Receives the list of gentlemen from App
 - Display number of selected gentlemen
 
-## Button // pueder ser un <a>
+## Button
 
 - Receives the function to "select all"
 
