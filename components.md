@@ -26,6 +26,8 @@
 - Contains the function "toggle"
 - Contains the function "select all"
 - Contains the function "delete"
+- Contains Header component
+- Contains Controls component
 - Sends the function "delete" and "toggle" to Gentleman
 - Sends the function "select all" to Button
 - Sends the list of gentlemen to Info
@@ -33,6 +35,11 @@
 ## Header
 
 - Displays the main title
+
+## Controls
+
+- Contains Info component
+- Contains a button to select all gentlemen
 
 ## Info
 

@@ -1,5 +1,6 @@
 import "./App.css";
 import { Header } from "../Header/Header";
+import { Controls } from "../Controls/Controls";
 
 export const gentlemen = [
   {
@@ -38,6 +39,7 @@ export const App = () => {
   return (
     <div className="container">
       <Header />
+      <Controls />
     </div>
   );
 };
