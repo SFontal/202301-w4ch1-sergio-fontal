@@ -1,0 +1,8 @@
+@import url("/src/colors.css");
+
+.container {
+  background-color: var(--background-main-color);
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
