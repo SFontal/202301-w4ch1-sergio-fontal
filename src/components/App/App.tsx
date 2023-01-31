@@ -2,6 +2,17 @@ import "./App.css";
 import { Header } from "../Header/Header";
 import { Controls } from "../Controls/Controls";
 
+export interface gentlemanStructure {
+  id: number;
+  name: string;
+  status: string;
+  profession: string;
+  twitter: string;
+  picture: string;
+  alternativeText: string;
+  selected: true;
+}
+
 export const gentlemen = [
   {
     id: 1,
