@@ -30,6 +30,10 @@
 - Sends the function "select all" to Button
 - Sends the list of gentlemen to Info
 
+## Header
+
+- Displays the main title
+
 ## Info
 
 - Receives the list of gentlemen from App
