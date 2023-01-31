@@ -9,7 +9,7 @@
   - profession
   - twitter
   - picture
-  - alternativaText
+  - alternativeText
   - selected
 
 ## Data modification
@@ -23,10 +23,10 @@
 ## App
 
 - Contains the gentlemen list
-- Contains the function "toggle",
+- Contains the function "toggle"
 - Contains the function "select all"
 - Contains the function "delete"
-- Sends the functions "delete" and "toggle" to Gentleman
+- Sends the function "delete" and "toggle" to Gentleman
 - Sends the function "select all" to Button
 - Sends the list of gentlemen to Info
 
