@@ -1,6 +1,7 @@
 import "./App.css";
+import { Header } from "../Header/Header";
 
-const gentlemen = [
+export const gentlemen = [
   {
     id: 1,
     name: "Bertin Osborne",
@@ -33,8 +34,10 @@ const gentlemen = [
   },
 ];
 
-const App = () => {
-  return <div className="container"></div>;
+export const App = () => {
+  return (
+    <div className="container">
+      <Header />
+    </div>
+  );
 };
-
-export default App;
